@@ -1,3 +1,4 @@
+from tools.ollama_tool import generate_travel_plan
 import streamlit as st
 from tools.weather_tool import get_weather
 from tools.ollama_tool import generate_travel_plan
